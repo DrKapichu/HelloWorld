@@ -16,3 +16,9 @@ Today's the day, so I'm going to run a shitload of git commits...
 Job execution on 04-03-2022 17:03:56
 Today's date <--> date of future run:  030422  <-->  030422
 Today's the day, so I'm going to run a shitload of git commits...
+Job execution on 08-03-2022 15:56:28
+Today's date <--> date of future run:  030822  <-->  030422
+Going to run at command for date 030422.
+Job execution on 08-03-2022 15:57:11
+Today's date <--> date of future run:  030822  <-->  030822
+Today's the day, so I'm going to run a shitload of git commits...
