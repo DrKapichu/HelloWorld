@@ -1,3 +1,6 @@
-Job execution on 09-03-2022 10:55:57
-Today's date <--> date of future run:  030922  <-->  030922
-Today's the day, so I'm going to run a shitload of git commits...
+Job execution on 09-03-2022 11:05:29
+Today's date <--> date of future run:  030922  <-->  031422
+Going to run at command for date 031422.
+Job execution on 09-03-2022 11:10:24
+Today's date <--> date of future run:  030922  <-->  031422
+Going to run at command for date 031422.
