@@ -4,3 +4,6 @@ Going to run at command for date 031422.
 Job execution on 09-03-2022 11:10:24
 Today's date <--> date of future run:  030922  <-->  031422
 Going to run at command for date 031422.
+Job execution on 14-03-2022 11:10:00
+Today's date <--> date of future run:  031422  <-->  031422
+Today's the day, so I'm going to run a shitload of git commits...
